@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a personal portfolio website for **BRIAN NGANA**, showcasing skills, projects, and a brief introduction. The website features a responsive design, dark mode toggle, and a clean, modern UI.
+This is a personal portfolio website for **Brian Ngana**, showcasing skills, projects, and a brief introduction. The website features a responsive design, dark mode toggle, and a clean, modern UI.
 
 ## Features
 
